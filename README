@@ -1,0 +1,4 @@
+Notes
+MYSQL DB and php files are on my stephenbreighner.com/bball server. I included the files in the remote folder so you could see them.
+
+I was able to run this on Boot2Docker, should work fine on regular Docker as well.
